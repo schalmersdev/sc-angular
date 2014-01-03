@@ -1,0 +1,108 @@
+{
+	"skills":[
+		{
+			"title":"HTML",
+			"value":10
+		},
+	    {
+			"title":"CSS",
+			"value":10
+		},
+		{
+			"title":"PHOTOSHOP",
+			"value":10
+		},
+		{
+			"title":"JAVASCRIPT",
+			"value":8
+		},
+		{
+			"title":"ACTIONSCRIPT",
+			"value":8
+		},
+		{
+			"title":"ADOBE FLASH",
+			"value":8
+		},
+		{
+			"title":"ILLUSTRATOR",
+			"value":7
+		},
+		{
+			"title":"JQUERY",
+			"value":6
+		},
+		{
+			"title":"VSS",
+			"value":5
+		},
+		{
+			"title":"SEO",
+			"value":5
+		},
+		{
+			"title":"SASS AND SCSS",
+			"value":3
+		},
+		{
+			"title":"SCRUM",
+			"value":2
+		},
+		{
+			"title":"XSLT",
+			"value":2
+		},
+		{
+			"title":"MIDDLEMAN",
+			"value":3
+		},
+		{
+			"title":"COMPASS",
+			"value":3
+		},
+		{
+			"title":"GRUNT",
+			"value":2
+		},
+		{
+			"title":"YEOMAN",
+			"value":2
+		},
+		{
+			"title":"ZURB-FOUNDATION",
+			"value":3
+		},
+		{
+			"title":"TWITTER BOOTSTRAP",
+			"value":2
+		},
+		{
+			"title":"TAGUCHI MAIL",
+			"value":3
+		},
+		{
+			"title":"MAILCHIMP",
+			"value":3
+		},
+		{
+			"title":"SHOPIFY",
+			"value":2
+		},
+		{
+			"title":"SVN",
+			"value":3
+		},
+		{
+			"title":"GITHUB",
+			"value":2
+		},
+		{
+			"title":"TFS",
+			"value":2
+		}
+		
+	]
+	   
+}
+
+

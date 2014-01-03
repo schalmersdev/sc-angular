@@ -1,0 +1,40 @@
+ <footer class="main-footer">
+
+    <div class="container">
+
+      <div class="row">
+          <div class="twelvecol">
+
+            <h2>Get in touch</h2>
+
+            <p>
+              If you are interested in <a href="mailto:mailto:sam@samuelchalmers.com">getting in touch</a> with me please feel free to so.
+            </p>
+
+          </div>
+      </div>
+
+
+      <!-- Start Footer -->
+
+      <div class="row">
+        <div class="twelvecol">
+          <ul class="ch-grid" ng-controller="SocialCtrl">
+            <li ng-repeat="social in socials">
+              <div class="ch-item ch-img-{{$index+1}}">
+                <div class="ch-info">
+                  <a href="{{social.url}}">
+                    <h3>{{social.action}}</h3>
+                    <p>Click</p>
+                  </a>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>  
+      </div>  
+
+      <!-- End Footer -->
+
+    </div>
+  </footer>

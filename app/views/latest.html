@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="twelvecol">
+        <h2>Latest work</h2>
+        <p class="introduction">
+            Ive been lucky enough to work in some <a href="http://www.reactive.com">award winning agencies</a> for some great clients...
+        </p>
+        <p>Below is a sample of some of the projects I have been working on lately at <a href="http://www.reactive.com">reactive</a>.</p>
+    </div>
+</div>
+
+<div class="works">
+    <div class="row">
+        <div ng-repeat="project in projects" class="sixcol" ng-class-even="'last'">
+            <h2>{{project.title}}</h2>
+            <div class="thumb-container">
+                <a ng-href="{{project.url}}" target="_blank"><img ng-src="{{project.thumb}}"><span>Launch site</span></a>
+            </div>
+            <p>{{project.info}}
+            </p>
+        </div>
+    </div>
+</div>
+
+
