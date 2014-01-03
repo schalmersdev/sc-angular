@@ -1,4 +1,4 @@
-SC ANGULAR VERSION OF SAMUELCHALMERS.COM
+Sc-angular version of samuelchalmers.com
 ========================================
 Angular version of my portfolio
 
